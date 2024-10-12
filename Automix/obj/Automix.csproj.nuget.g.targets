@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)cete.dynamicpdf.viewer.net\3.11.0\build\net40\ceTe.DynamicPDF.Viewer.NET.targets" Condition="Exists('$(NuGetPackageRoot)cete.dynamicpdf.viewer.net\3.11.0\build\net40\ceTe.DynamicPDF.Viewer.NET.targets')" />
+  </ImportGroup>
+</Project>

@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\James\\Desktop\\Automix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0D581A-7578-4510-A568-1C3B35697E90}|Automix\\Automix.csproj|c:\\users\\james\\desktop\\automix\\automix\\views\\alunos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB0D581A-7578-4510-A568-1C3B35697E90}|Automix\\Automix.csproj|solutionrelative:automix\\views\\alunos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0D581A-7578-4510-A568-1C3B35697E90}|Automix\\Automix.csproj|c:\\users\\james\\desktop\\automix\\automix\\views\\alunos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB0D581A-7578-4510-A568-1C3B35697E90}|Automix\\Automix.csproj|solutionrelative:automix\\views\\alunos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0D581A-7578-4510-A568-1C3B35697E90}|Automix\\Automix.csproj|c:\\users\\james\\desktop\\automix\\automix\\models\\domain\\updatealunoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0D581A-7578-4510-A568-1C3B35697E90}|Automix\\Automix.csproj|solutionrelative:automix\\models\\domain\\updatealunoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0D581A-7578-4510-A568-1C3B35697E90}|Automix\\Automix.csproj|c:\\users\\james\\desktop\\automix\\automix\\models\\domain\\percursosalunos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0D581A-7578-4510-A568-1C3B35697E90}|Automix\\Automix.csproj|solutionrelative:automix\\models\\domain\\percursosalunos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0D581A-7578-4510-A568-1C3B35697E90}|Automix\\Automix.csproj|c:\\users\\james\\desktop\\automix\\automix\\models\\domain\\percursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0D581A-7578-4510-A568-1C3B35697E90}|Automix\\Automix.csproj|solutionrelative:automix\\models\\domain\\percursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0D581A-7578-4510-A568-1C3B35697E90}|Automix\\Automix.csproj|c:\\users\\james\\desktop\\automix\\automix\\models\\domain\\pager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0D581A-7578-4510-A568-1C3B35697E90}|Automix\\Automix.csproj|solutionrelative:automix\\models\\domain\\pager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0D581A-7578-4510-A568-1C3B35697E90}|Automix\\Automix.csproj|c:\\users\\james\\desktop\\automix\\automix\\models\\domain\\detailsalunosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0D581A-7578-4510-A568-1C3B35697E90}|Automix\\Automix.csproj|solutionrelative:automix\\models\\domain\\detailsalunosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0D581A-7578-4510-A568-1C3B35697E90}|Automix\\Automix.csproj|c:\\users\\james\\desktop\\automix\\automix\\views\\alunos\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB0D581A-7578-4510-A568-1C3B35697E90}|Automix\\Automix.csproj|solutionrelative:automix\\views\\alunos\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0D581A-7578-4510-A568-1C3B35697E90}|Automix\\Automix.csproj|c:\\users\\james\\desktop\\automix\\automix\\data\\automixdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0D581A-7578-4510-A568-1C3B35697E90}|Automix\\Automix.csproj|solutionrelative:automix\\data\\automixdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0D581A-7578-4510-A568-1C3B35697E90}|Automix\\Automix.csproj|c:\\users\\james\\desktop\\automix\\automix\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0D581A-7578-4510-A568-1C3B35697E90}|Automix\\Automix.csproj|solutionrelative:automix\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0D581A-7578-4510-A568-1C3B35697E90}|Automix\\Automix.csproj|c:\\users\\james\\desktop\\automix\\automix\\models\\domain\\addalunoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0D581A-7578-4510-A568-1C3B35697E90}|Automix\\Automix.csproj|solutionrelative:automix\\models\\domain\\addalunoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0D581A-7578-4510-A568-1C3B35697E90}|Automix\\Automix.csproj|c:\\users\\james\\desktop\\automix\\automix\\models\\domain\\alunos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0D581A-7578-4510-A568-1C3B35697E90}|Automix\\Automix.csproj|solutionrelative:automix\\models\\domain\\alunos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0D581A-7578-4510-A568-1C3B35697E90}|Automix\\Automix.csproj|c:\\users\\james\\desktop\\automix\\automix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0D581A-7578-4510-A568-1C3B35697E90}|Automix\\Automix.csproj|solutionrelative:automix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0D581A-7578-4510-A568-1C3B35697E90}|Automix\\Automix.csproj|c:\\users\\james\\desktop\\automix\\automix\\models\\addpercursosalunosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0D581A-7578-4510-A568-1C3B35697E90}|Automix\\Automix.csproj|solutionrelative:automix\\models\\addpercursosalunosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0D581A-7578-4510-A568-1C3B35697E90}|Automix\\Automix.csproj|c:\\users\\james\\desktop\\automix\\automix\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB0D581A-7578-4510-A568-1C3B35697E90}|Automix\\Automix.csproj|solutionrelative:automix\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0D581A-7578-4510-A568-1C3B35697E90}|Automix\\Automix.csproj|c:\\users\\james\\desktop\\automix\\automix\\models\\detailspercursosalunosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0D581A-7578-4510-A568-1C3B35697E90}|Automix\\Automix.csproj|solutionrelative:automix\\models\\detailspercursosalunosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0D581A-7578-4510-A568-1C3B35697E90}|Automix\\Automix.csproj|c:\\users\\james\\desktop\\automix\\automix\\models\\updatepercursoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0D581A-7578-4510-A568-1C3B35697E90}|Automix\\Automix.csproj|solutionrelative:automix\\models\\updatepercursoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0D581A-7578-4510-A568-1C3B35697E90}|Automix\\Automix.csproj|c:\\users\\james\\desktop\\automix\\automix\\models\\updatepercursosalunosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0D581A-7578-4510-A568-1C3B35697E90}|Automix\\Automix.csproj|solutionrelative:automix\\models\\updatepercursosalunosviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0D581A-7578-4510-A568-1C3B35697E90}|Automix\\Automix.csproj|c:\\users\\james\\desktop\\automix\\automix\\models\\domain\\documentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0D581A-7578-4510-A568-1C3B35697E90}|Automix\\Automix.csproj|solutionrelative:automix\\models\\domain\\documentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0D581A-7578-4510-A568-1C3B35697E90}|Automix\\Automix.csproj|c:\\users\\james\\desktop\\automix\\automix\\models\\addpercursoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0D581A-7578-4510-A568-1C3B35697E90}|Automix\\Automix.csproj|solutionrelative:automix\\models\\addpercursoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0D581A-7578-4510-A568-1C3B35697E90}|Automix\\Automix.csproj|c:\\users\\james\\desktop\\automix\\automix\\models\\domain\\moradas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB0D581A-7578-4510-A568-1C3B35697E90}|Automix\\Automix.csproj|solutionrelative:automix\\models\\domain\\moradas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB0D581A-7578-4510-A568-1C3B35697E90}|Automix\\Automix.csproj|c:\\users\\james\\desktop\\automix\\automix\\views\\alunos\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB0D581A-7578-4510-A568-1C3B35697E90}|Automix\\Automix.csproj|solutionrelative:automix\\views\\alunos\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\Automix\\Automix\\Views\\Alunos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Automix\\Views\\Alunos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\James\\Desktop\\Automix\\Automix\\Views\\Alunos\\Index.cshtml",
+              "RelativeToolTip": "Automix\\Views\\Alunos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T11:06:26.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateAlunoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\Automix\\Automix\\Models\\Domain\\UpdateAlunoViewModel.cs",
+              "RelativeDocumentMoniker": "Automix\\Models\\Domain\\UpdateAlunoViewModel.cs",
+              "ToolTip": "C:\\Users\\James\\Desktop\\Automix\\Automix\\Models\\Domain\\UpdateAlunoViewModel.cs",
+              "RelativeToolTip": "Automix\\Models\\Domain\\UpdateAlunoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T11:04:19.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PercursosAlunos.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\Automix\\Automix\\Models\\Domain\\PercursosAlunos.cs",
+              "RelativeDocumentMoniker": "Automix\\Models\\Domain\\PercursosAlunos.cs",
+              "ToolTip": "C:\\Users\\James\\Desktop\\Automix\\Automix\\Models\\Domain\\PercursosAlunos.cs",
+              "RelativeToolTip": "Automix\\Models\\Domain\\PercursosAlunos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T11:04:08.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Percursos.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\Automix\\Automix\\Models\\Domain\\Percursos.cs",
+              "RelativeDocumentMoniker": "Automix\\Models\\Domain\\Percursos.cs",
+              "ToolTip": "C:\\Users\\James\\Desktop\\Automix\\Automix\\Models\\Domain\\Percursos.cs",
+              "RelativeToolTip": "Automix\\Models\\Domain\\Percursos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T11:04:07.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pager.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\Automix\\Automix\\Models\\Domain\\Pager.cs",
+              "RelativeDocumentMoniker": "Automix\\Models\\Domain\\Pager.cs",
+              "ToolTip": "C:\\Users\\James\\Desktop\\Automix\\Automix\\Models\\Domain\\Pager.cs",
+              "RelativeToolTip": "Automix\\Models\\Domain\\Pager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T11:03:54.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DetailsAlunosViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\Automix\\Automix\\Models\\Domain\\DetailsAlunosViewModel.cs",
+              "RelativeDocumentMoniker": "Automix\\Models\\Domain\\DetailsAlunosViewModel.cs",
+              "ToolTip": "C:\\Users\\James\\Desktop\\Automix\\Automix\\Models\\Domain\\DetailsAlunosViewModel.cs",
+              "RelativeToolTip": "Automix\\Models\\Domain\\DetailsAlunosViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T11:03:27.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\Automix\\Automix\\Views\\Alunos\\Details.cshtml",
+              "RelativeDocumentMoniker": "Automix\\Views\\Alunos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\James\\Desktop\\Automix\\Automix\\Views\\Alunos\\Details.cshtml",
+              "RelativeToolTip": "Automix\\Views\\Alunos\\Details.cshtml",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T11:02:43.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\Automix\\Automix\\Views\\Alunos\\Add.cshtml",
+              "RelativeDocumentMoniker": "Automix\\Views\\Alunos\\Add.cshtml",
+              "ToolTip": "C:\\Users\\James\\Desktop\\Automix\\Automix\\Views\\Alunos\\Add.cshtml",
+              "RelativeToolTip": "Automix\\Views\\Alunos\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T11:02:06.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AutomixDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\Automix\\Automix\\Data\\AutomixDbContext.cs",
+              "RelativeDocumentMoniker": "Automix\\Data\\AutomixDbContext.cs",
+              "ToolTip": "C:\\Users\\James\\Desktop\\Automix\\Automix\\Data\\AutomixDbContext.cs",
+              "RelativeToolTip": "Automix\\Data\\AutomixDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T10:53:09.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AlunosController.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\Automix\\Automix\\Controllers\\AlunosController.cs",
+              "RelativeDocumentMoniker": "Automix\\Controllers\\AlunosController.cs",
+              "ToolTip": "C:\\Users\\James\\Desktop\\Automix\\Automix\\Controllers\\AlunosController.cs",
+              "RelativeToolTip": "Automix\\Controllers\\AlunosController.cs",
+              "ViewState": "AgIAALkBAAAAAAAAAAAYwLQBAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:56:29.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddAlunoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\Automix\\Automix\\Models\\Domain\\AddAlunoViewModel.cs",
+              "RelativeDocumentMoniker": "Automix\\Models\\Domain\\AddAlunoViewModel.cs",
+              "ToolTip": "C:\\Users\\James\\Desktop\\Automix\\Automix\\Models\\Domain\\AddAlunoViewModel.cs",
+              "RelativeToolTip": "Automix\\Models\\Domain\\AddAlunoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T11:00:37.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Alunos.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\Automix\\Automix\\Models\\Domain\\Alunos.cs",
+              "RelativeDocumentMoniker": "Automix\\Models\\Domain\\Alunos.cs",
+              "ToolTip": "C:\\Users\\James\\Desktop\\Automix\\Automix\\Models\\Domain\\Alunos.cs",
+              "RelativeToolTip": "Automix\\Models\\Domain\\Alunos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T11:01:11.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\Automix\\Automix\\Program.cs",
+              "RelativeDocumentMoniker": "Automix\\Program.cs",
+              "ToolTip": "C:\\Users\\James\\Desktop\\Automix\\Automix\\Program.cs",
+              "RelativeToolTip": "Automix\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T10:52:49.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddPercursosAlunosViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\Automix\\Automix\\Models\\AddPercursosAlunosViewModel.cs",
+              "RelativeDocumentMoniker": "Automix\\Models\\AddPercursosAlunosViewModel.cs",
+              "ToolTip": "C:\\Users\\James\\Desktop\\Automix\\Automix\\Models\\AddPercursosAlunosViewModel.cs",
+              "RelativeToolTip": "Automix\\Models\\AddPercursosAlunosViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T10:52:10.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\Automix\\Automix\\appsettings.json",
+              "RelativeDocumentMoniker": "Automix\\appsettings.json",
+              "ToolTip": "C:\\Users\\James\\Desktop\\Automix\\Automix\\appsettings.json",
+              "RelativeToolTip": "Automix\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-05T18:44:27.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DetailsPercursosAlunosViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\Automix\\Automix\\Models\\DetailsPercursosAlunosViewModel.cs",
+              "RelativeDocumentMoniker": "Automix\\Models\\DetailsPercursosAlunosViewModel.cs",
+              "ToolTip": "C:\\Users\\James\\Desktop\\Automix\\Automix\\Models\\DetailsPercursosAlunosViewModel.cs",
+              "RelativeToolTip": "Automix\\Models\\DetailsPercursosAlunosViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:57:25.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdatePercursoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\Automix\\Automix\\Models\\UpdatePercursoViewModel.cs",
+              "RelativeDocumentMoniker": "Automix\\Models\\UpdatePercursoViewModel.cs",
+              "ToolTip": "C:\\Users\\James\\Desktop\\Automix\\Automix\\Models\\UpdatePercursoViewModel.cs",
+              "RelativeToolTip": "Automix\\Models\\UpdatePercursoViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:57:42.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UpdatePercursosAlunosViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\Automix\\Automix\\Models\\UpdatePercursosAlunosViewModel.cs",
+              "RelativeDocumentMoniker": "Automix\\Models\\UpdatePercursosAlunosViewModel.cs",
+              "ToolTip": "C:\\Users\\James\\Desktop\\Automix\\Automix\\Models\\UpdatePercursosAlunosViewModel.cs",
+              "RelativeToolTip": "Automix\\Models\\UpdatePercursosAlunosViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:57:39.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Documentos.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\Automix\\Automix\\Models\\Domain\\Documentos.cs",
+              "RelativeDocumentMoniker": "Automix\\Models\\Domain\\Documentos.cs",
+              "ToolTip": "C:\\Users\\James\\Desktop\\Automix\\Automix\\Models\\Domain\\Documentos.cs",
+              "RelativeToolTip": "Automix\\Models\\Domain\\Documentos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:57:54.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddPercursoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\Automix\\Automix\\Models\\AddPercursoViewModel.cs",
+              "RelativeDocumentMoniker": "Automix\\Models\\AddPercursoViewModel.cs",
+              "ToolTip": "C:\\Users\\James\\Desktop\\Automix\\Automix\\Models\\AddPercursoViewModel.cs",
+              "RelativeToolTip": "Automix\\Models\\AddPercursoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:57:31.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Moradas.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\Automix\\Automix\\Models\\Domain\\Moradas.cs",
+              "RelativeDocumentMoniker": "Automix\\Models\\Domain\\Moradas.cs",
+              "ToolTip": "C:\\Users\\James\\Desktop\\Automix\\Automix\\Models\\Domain\\Moradas.cs",
+              "RelativeToolTip": "Automix\\Models\\Domain\\Moradas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T09:57:55.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\Automix\\Automix\\Views\\Alunos\\Update.cshtml",
+              "RelativeDocumentMoniker": "Automix\\Views\\Alunos\\Update.cshtml",
+              "ToolTip": "C:\\Users\\James\\Desktop\\Automix\\Automix\\Views\\Alunos\\Update.cshtml",
+              "RelativeToolTip": "Automix\\Views\\Alunos\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T09:58:56.842Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

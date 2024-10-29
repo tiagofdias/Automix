@@ -1,0 +1,94 @@
+﻿@model PaginatedList<Automix.Models.Domain.Alunos>
+
+@{
+    ViewData["Title"] = "Alunos";
+}
+
+<h2>Alunos</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                <a asp-action="Index" asp-route-sortOrder="@ViewData["IDAluno"]" asp-route-currentFilter="@ViewData["Filtro"]" style="text-decoration:none; color: inherit;"> ID </a>
+            </th>
+            <th>
+                Foto
+            </th>
+            <th>
+               <a asp-action="Index" asp-route-sortOrder="@ViewData["Nome"]" asp-route-currentFilter="@ViewData["Filtro"]" style="text-decoration:none; color: inherit;"> Nome </a>
+            </th>
+            <th>
+                <a asp-action="Index" asp-route-sortOrder="@ViewData["NIFAluno"]" asp-route-currentFilter="@ViewData["Filtro"]" style="text-decoration:none; color: inherit;"> NIF </a>
+            </th>
+            <th>
+               <a asp-action="Index" asp-route-sortOrder="@ViewData["Contacto"]" asp-route-currentFilter="@ViewData["Filtro"]" style="text-decoration:none; color: inherit;"> Contacto </a>
+            </th>
+            <th>
+               <a asp-action="Index" asp-route-sortOrder="@ViewData["ContactoAlternativo"]" asp-route-currentFilter="@ViewData["Filtro"]" style="text-decoration:none; color: inherit;"> Contacto Alternativo</a>
+            </th>
+             <th>
+                <a asp-action="Index" asp-route-sortOrder="@ViewData["Email"]" asp-route-currentFilter="@ViewData["Filtro"]" style="text-decoration:none; color: inherit;"> Email</a>
+            </th>
+            <th width="165"><a asp-action="Add" class="btn btn-outline-success"> <i class="fa-solid fa-plus"></i></a></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+
+        <tr>
+              <form class="row g-3" method="post" action="Delete" class="mt-5">
+            <td>
+                @Html.DisplayFor(modelItem => item.IDAluno)
+            </td>
+            <td>
+                <img  width="70" height="70" style=" border-radius: 50%; object-fit: cover;" src="data:image;base64,@System.Convert.ToBase64String(item.Foto)" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NIFAluno)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Contactos.Contacto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Contactos.ContactoAlternativo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Contactos.Email)
+            </td>
+             <td><a href="Alunos/Update/@item.IDAluno" class="btn btn-outline-warning"><i class="far fa-edit"></i></a>
+                  <a href="Alunos/Details/@item.IDAluno" class="btn btn-outline-info"><i class="fa-solid fa-eye"></i></a>
+                  <button type="submit" class="btn btn-outline-danger" onclick="return confirm('Tem a certeza que deseja eliminar este registo? ')" asp-action="Delete" asp-route-id="@item.IDAluno" asp-controller="Alunos"><i class="fa-solid fa-trash"></i></button>             
+              </td>
+              </form>
+        </tr>
+}
+    </tbody>
+</table>
+
+@*//PAGINAÇÃO*@
+@{
+    var prevDisabled = !Model.HasPreviousPage ? "disabled" : "";
+    var nextDisabled = !Model.HasNextPage ? "disabled" : "";
+}
+
+<a asp-action="Index"
+   asp-route-sortOrder="@ViewData["CurrentSort"]"
+   asp-route-pageNumber="@(Model.PageIndex - 1)"
+   asp-route-currentFilter="@ViewData["Filtro"]"
+   class="btn btn-default @prevDisabled">
+    Previous
+</a>
+<a asp-action="Index"
+   asp-route-sortOrder="@ViewData["CurrentSort"]"
+   asp-route-pageNumber="@(Model.PageIndex + 1)"
+   asp-route-currentFilter="@ViewData["Filtro"]"
+   class="btn btn-default @nextDisabled">
+    Next
+</a>
+
+<p style="float:right">@ViewData["Registos"] Registos - Página @ViewData["PaginaAtual"] de @ViewData["NumeroPaginas"]</p>
+

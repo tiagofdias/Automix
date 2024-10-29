@@ -1,0 +1,32 @@
+﻿@model Automix.Models.AddPercursosAlunosViewModel
+
+@{
+    ViewData["Title"] = "Novo Registo";
+}
+
+<h1>Novo Registo</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form class="row g-3" method="post" action="Add" class="mt-5" style="display: inline;">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                Aluno
+                @Html.DropDownListFor(m => m.IDAluno, new SelectList(ViewBag.Alunos, "IDAluno", "Nome"), new { @class = "form-control" })
+                <span asp-validation-for="IDAluno" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                  Percurso
+                @Html.DropDownListFor(m => m.IDPercurso, new SelectList(ViewBag.Percursos, "IDPercurso", "Nome"), new { @class = "form-control" })
+                <span asp-validation-for="IDPercurso" class="text-danger"></span>
+            </div>
+               <button type="submit" class="btn btn-outline-primary" style="width: 25%; text-decoration:none; color: inherit;"> <i class="fa-solid fa-floppy-disk" style="font-size: 13px;"></i> Guardar</button>
+               <button type="submit"  asp-action="Index"   asp-controller="PercursosAlunos" method="get" class="btn btn-outline-primary" style="width: 25%; text-decoration:none; color: inherit;" ><i class="fa-solid fa-rotate-left"></i> Voltar</button>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

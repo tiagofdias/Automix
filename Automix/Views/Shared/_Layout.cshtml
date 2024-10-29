@@ -1,0 +1,83 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Adicionar Percurso"] - Automix</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Automix.styles.css" asp-append-version="true" />
+    <link href="~/lib/font-awesome/css/all.css" rel= "stylesheet" />
+
+</head>
+<body>
+    <header>
+@*        <nav class="navbar navbar-light" style="background-color: #e3f2fd;">*@
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Automix</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                         <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Percursos" asp-action="Index">Percursos</a>
+                        </li>
+                          <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Alunos" asp-action="Index">Alunos</a>
+                        </li>
+                          <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="PercursosAlunos" asp-action="Index">Percursos Alunos</a>
+                        </li>
+                    </ul>
+
+                    @{
+                        string Controller = string.Empty;
+                    }
+
+                    @switch(ViewData["Modulo"]){
+
+                        case "Percursos":
+                            Controller = "Percursos";
+                            break;
+
+                        case "Alunos":
+                            Controller = "Alunos";
+                            break;
+
+                        case "PercursosAlunos":
+                            Controller = "PercursosAlunos";
+                            break;
+
+                      default:
+
+                        break;
+                    }
+                    @if (Controller != string.Empty)
+                    {
+                        <form class="d-flex" role="search" asp-controller="@Controller" asp-action="Index" method="get">
+                            <input class="form-control me-2" type="text" placeholder="Pesquisar" name="SearchString" value="@ViewData["Filtro"]" aria-label="Search">
+                            <button class="btn btn-outline-primary" type="submit"><i class="fa-solid fa-magnifying-glass"></i></button>
+                        </form>
+                    }
+
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="@Url.Content("~/Scripts/jquery.validate.min.js")" type="text/javascript"></script> 
+    <script src="@Url.Content("~/Scripts/jquery.validate.unobtrusive.min.js")" type="text/javascript"></script> 
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
